@@ -1,13 +1,13 @@
 {
   "_comment": "for local Database",
-  "jwtPrivateKey": "unsecureKey",
+  "jwtPrivateKey": "",
    "port": "3901",
   "requiresAuth": true,
-  "db": "mongodb://localhost/fileTransfer",
-  "AUTH_URL":"https://zarrir.omidtech.co/",
-  "CLIENT_ID":"Tax",
-  "CLIENT_SECRET":"T@x#3029XyM",
-  "REDIRECT_URI":"http://localhost:3000",
+  "db": "",
+  "AUTH_URL":"",
+  "CLIENT_ID":"",
+  "CLIENT_SECRET":"",
+  "REDIRECT_URI":"",
   "ISS":"zarrir",
   "APP_URL":"http://192.168.0.141:7072/api/v1/Tracking/"
 }
